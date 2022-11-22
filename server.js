@@ -2,10 +2,6 @@ const path = require('path')
 const express = require('express')
 const app = express()
 
-throw new Error('bobobobobobob')
-
-asdf
-
 function sleep(ms) {
     return new Promise((resolve) => setTimeout(resolve, ms))
 }
