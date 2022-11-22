@@ -2,9 +2,9 @@
   "name": "starter-micro-api",
   "version": "1.0.0",
   "description": "",
-  "xmain": "xindex.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node server.js",
+    "xstart": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
