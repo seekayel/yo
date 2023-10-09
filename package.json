@@ -2,10 +2,9 @@
   "name": "starter-micro-api",
   "version": "1.0.0",
   "description": "",
-  "xmain": "app.js",
+  "main": "app.js",
   "scripts": {
-    "start": "node app.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "node:start": "node app.js"
   },
   "author": "",
   "license": "ISC",
