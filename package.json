@@ -4,7 +4,8 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "node:start": "node app.js"
+    "node:start": "node app.js",
+    "build": "echo 'running a build script ---------------------------------------------- - - - - - - - - - - ]]]]]>>>>'"
   },
   "author": "",
   "license": "ISC",
